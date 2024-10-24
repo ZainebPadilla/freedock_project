@@ -1,24 +1,3 @@
-# README
+L'application permet de gérer des médecins ayant plusieurs spécialités, des patients liés à ces médecins via des rendez-vous, et tout cela en étant localisé dans des villes spécifiques.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ce projet met en place plusieurs concepts essentiels de Rails, notamment les relations many-to-many entre les modèles et l'utilisation des seeds pour peupler la base de données avec des données factices.
